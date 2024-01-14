@@ -1,3 +1,3 @@
-# go-toggle-hidden-files-on-mac
+# go-toggle-hidden-files
 
 > Easily Show/Hide hidden files on Mac
