@@ -5,11 +5,8 @@ import (
 	"os/exec"
 )
 
-// var isHiddenFilesVisible = ".git"[0] == '.'
-
-var hideFlag = flag.Bool("hide", false, "hide hidden files")
-
 func main() {
+	hideFlag := flag.Bool("hide", false, "hide hidden files")
 	flag.Parse()
 
 	showHidddenFilesCmd := exec.Command("defaults", "write", "com.apple.Finder", "AppleShowAllFiles", "true")
