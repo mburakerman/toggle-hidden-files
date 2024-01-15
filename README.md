@@ -12,4 +12,6 @@ Easily show & hide hidden files on Mac
 
 ### ⬇️ Download
 
-`go install github.com/mburakerman/toggle-hidden-files@latest`
+```shell
+go install github.com/mburakerman/toggle-hidden-files@latest
+```
