@@ -1,3 +1,3 @@
-module go-toggle-hidden-files
+module toggle-hidden-files
 
 go 1.20
