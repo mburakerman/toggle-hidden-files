@@ -6,7 +6,7 @@ Easily show & hide hidden files on Mac
 
 ## ⬇️ Download
 
-⚠️ Make sure Go is installed on your system
+_⚠️ Make sure Go is installed on your system_
 
 ```shell
 go install github.com/mburakerman/toggle-hidden-files@latest
